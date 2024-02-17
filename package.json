@@ -1,0 +1,15 @@
+{
+  "name": "jason_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "start":"json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erik",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
